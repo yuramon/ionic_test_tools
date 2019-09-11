@@ -1,1 +1,21 @@
 /* Empty. Add your own CSS if you like */
+
+.star>.item-content {
+    background-color: aqua !important;
+}
+
+.splash {
+    background: url(../img/skyline.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+.branding {
+    width: 50%;
+    max-width: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+}
